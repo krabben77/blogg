@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "blogg",
+    "description": "",
+    "home_page_url": "https://krabben77.github.io/blogg",
+    "feed_url": "https://krabben77.github.io/blogg/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "admin"
+    },
+    "items": [
+    ]
+}
